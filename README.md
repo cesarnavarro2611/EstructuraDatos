@@ -1,2 +1,3 @@
-# EstructuraDatos
-Trabajos de la materia de estructura de Datos, de tercer semestre durante mis estudios en el ITQ
+# Estructura de Datos A08
+Trabajo A08 de la materia de estructura de Datos, Arboles Binarios
+
